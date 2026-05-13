@@ -1,6 +1,12 @@
 {
+  "/_not-found/page": "app/_not-found/page.js",
   "/jadwal/page": "app/jadwal/page.js",
+  "/armada/page": "app/armada/page.js",
+  "/paket-wisata/page": "app/paket-wisata/page.js",
+  "/booking/page": "app/booking/page.js",
+  "/tentang/page": "app/tentang/page.js",
+  "/kontak/page": "app/kontak/page.js",
   "/page": "app/page.js",
-  "/admin/page": "app/admin/page.js",
-  "/admin/login/page": "app/admin/login/page.js"
+  "/admin/login/page": "app/admin/login/page.js",
+  "/admin/page": "app/admin/page.js"
 }
